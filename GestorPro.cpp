@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstring>
 #include <fstream>
-sadsad
+
 const int MAX_PROCESOS = 100;
 const int MAX_NOMBRE   = 40;
 const int MAX_MEMORIA  = 100; // bloques de memoria simulada
